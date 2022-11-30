@@ -1,6 +1,6 @@
 ## Personal Portfolio
 
-Live demo available at: https://lyrics-discover-music.netlify.app/
+Live demo available at: https://connorp-portfolio.netlify.app/
 
 ![Portfolio Website](https://i.imgur.com/73tmfPT.png)
 
