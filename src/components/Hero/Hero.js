@@ -4,9 +4,6 @@ import Button from '../../styles/GlobalComponents/Button';
 import { LeftSection } from './HeroStyles';
 import Link from 'next/link';
 
-{/*<Button onClick={() => window.location = '/resume'}>
-View Resume (fix)
-</Button>*/}
 const Hero = () => (
   <Section row nopadding>
     <LeftSection>
