@@ -37,6 +37,13 @@ const Header = () =>  (
           </NavLink>
         </Link>
       </li>
+      <li>
+        <Link href="ConnorP_Resume.pdf" download>
+          <NavLink>
+            Resume
+          </NavLink>
+        </Link>
+      </li>
     </Div2>
     <Div3>
       <SocialIcons href="https://github.com/connorpaps">
